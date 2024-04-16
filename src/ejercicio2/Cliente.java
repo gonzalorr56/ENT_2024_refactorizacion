@@ -2,7 +2,7 @@ package ejercicio2;
 
 import java.util.List;
 
-public class Clientes {
+public class Cliente {
     private List<Cliente> clientes;
 
     public void agregarCliente(Cliente cliente) {
